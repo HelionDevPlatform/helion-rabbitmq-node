@@ -3,8 +3,8 @@
 This is a simple Node.js app that uses RabbitMQ. 
 
 ## Deploy to HP Helion
-<a href="http://localhost:3000/?repoUrl=https://github.com/Phanatic/node-env">
-![Helion  Logo](https://region-b.geo-1.objects.hpcloudsvc.com/v1/10822257696083/downloads/button.png?id=6)
+<a href="https://deploynow.hpcloud.com/?repoUrl=https://github.com/HelionDevPlatform/helion-rabbitmq-node">
+![Helion  Logo](https://a248.e.akamai.net/cdn.hpcloudsvc.com/g0bc199ab57e65f093a48d069effc0c3b/prodae1//button.png?id=6)
 </a>
 
 
