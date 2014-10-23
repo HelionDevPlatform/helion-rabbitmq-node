@@ -2,7 +2,7 @@
 
 This is a simple Node.js app that uses RabbitMQ. 
 
-New users should check out the resources available at [hpcloud](http://docs.hpcloud.com/helion/devplatform/workbook/messaging/node/). 
+New users should check out the resources available at [HP Helion Docs](http://docs.hpcloud.com/helion/devplatform/workbook/messaging/node/). 
 The site includes more detail and has instructions on how to create an HP
 Helion Development Platform Application Lifecycle Services Cluster.
 
@@ -20,7 +20,7 @@ prerequisites.
 - If you do not have an HP Helion Development Platform Application Lifecycle 
   Services Cluster available, please create one before continuing. You will also
   need to install the Helion CLI, which can be installed from the cluster's
-  Management Console. Please refer to [hpcloud](http://docs.hpcloud.com/helion/devplatform/workbook/messaging/node/)
+  Management Console. Please refer to [HP Helion Docs](http://docs.hpcloud.com/helion/devplatform/workbook/messaging/node/)
   for further details.  
 - Make sure that the RabbitMQ service is enabled. It is not enabled by default. 
   You can take the following steps to enable it:
