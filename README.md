@@ -7,12 +7,13 @@ The site includes more detail and has instructions on how to create an HP
 Helion Development Platform Application Lifecycle Services Cluster.
 
 ## Deploy to HP Helion
+
 You can deploy this app automatically with the button below or with the manual 
 instructions further down. In either case, you will need to have take care of the
 prerequisites.
 
-<a href="http://localhost:3000/?repoUrl=https://github.com/Phanatic/node-env">
-![Helion  Logo](https://region-b.geo-1.objects.hpcloudsvc.com/v1/10822257696083/downloads/button.png?id=6)
+<a href="https://deploynow.hpcloud.com/?repoUrl=https://github.com/HelionDevPlatform/helion-rabbitmq-node">
+![Helion  Logo](https://a248.e.akamai.net/cdn.hpcloudsvc.com/g0bc199ab57e65f093a48d069effc0c3b/prodae1//button.png?id=6)
 </a>
 
 ## Prerequisites
